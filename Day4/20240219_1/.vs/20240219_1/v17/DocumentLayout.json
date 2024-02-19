@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NewITest\\source\\repos\\20240219_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F89C6DE-4062-47E2-B076-45ABCEDA87B4}|20240219_1\\20240219_1.vcxproj|C:\\Users\\NewITest\\source\\repos\\20240219_1\\20240219_1\\main03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F89C6DE-4062-47E2-B076-45ABCEDA87B4}|20240219_1\\20240219_1.vcxproj|solutionrelative:20240219_1\\main03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F89C6DE-4062-47E2-B076-45ABCEDA87B4}|20240219_1\\20240219_1.vcxproj|C:\\Users\\NewITest\\source\\repos\\20240219_1\\20240219_1\\main02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F89C6DE-4062-47E2-B076-45ABCEDA87B4}|20240219_1\\20240219_1.vcxproj|solutionrelative:20240219_1\\main02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F89C6DE-4062-47E2-B076-45ABCEDA87B4}|20240219_1\\20240219_1.vcxproj|C:\\Users\\NewITest\\source\\repos\\20240219_1\\20240219_1\\main01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F89C6DE-4062-47E2-B076-45ABCEDA87B4}|20240219_1\\20240219_1.vcxproj|solutionrelative:20240219_1\\main01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main03.cpp",
+              "DocumentMoniker": "C:\\Users\\NewITest\\source\\repos\\20240219_1\\20240219_1\\main03.cpp",
+              "RelativeDocumentMoniker": "20240219_1\\main03.cpp",
+              "ToolTip": "C:\\Users\\NewITest\\source\\repos\\20240219_1\\20240219_1\\main03.cpp",
+              "RelativeToolTip": "20240219_1\\main03.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T10:49:45.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main02.cpp",
+              "DocumentMoniker": "C:\\Users\\NewITest\\source\\repos\\20240219_1\\20240219_1\\main02.cpp",
+              "RelativeDocumentMoniker": "20240219_1\\main02.cpp",
+              "ToolTip": "C:\\Users\\NewITest\\source\\repos\\20240219_1\\20240219_1\\main02.cpp",
+              "RelativeToolTip": "20240219_1\\main02.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T10:18:06.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main01.cpp",
+              "DocumentMoniker": "C:\\Users\\NewITest\\source\\repos\\20240219_1\\20240219_1\\main01.cpp",
+              "RelativeDocumentMoniker": "20240219_1\\main01.cpp",
+              "ToolTip": "C:\\Users\\NewITest\\source\\repos\\20240219_1\\20240219_1\\main01.cpp",
+              "RelativeToolTip": "20240219_1\\main01.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-19T09:51:52.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
