@@ -1,0 +1,3 @@
+﻿  main03_monster_upgrade.cpp
+C:\Users\김연수\Desktop\학원\Day6\hw_0226\hw_0226\main03_monster_upgrade.cpp(137,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  hw_0226.vcxproj -> C:\Users\김연수\Desktop\학원\Day6\hw_0226\x64\Debug\hw_0226.exe
